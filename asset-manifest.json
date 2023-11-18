@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bim_anime_log/static/css/main.0cd9b69a.css",
+    "main.js": "/bim_anime_log/static/js/main.5739e0e2.js",
+    "static/js/787.b7ed7893.chunk.js": "/bim_anime_log/static/js/787.b7ed7893.chunk.js",
+    "static/media/jjkbanner.png": "/bim_anime_log/static/media/jjkbanner.b7fa145707c6a2996065.png",
+    "static/media/demonslayer.jpg": "/bim_anime_log/static/media/demonslayer.6a44e9bc3c72820b7079.jpg",
+    "static/media/narutoshippuden.jpg": "/bim_anime_log/static/media/narutoshippuden.17fd81f996a47230e92f.jpg",
+    "static/media/juju.jpg": "/bim_anime_log/static/media/juju.72cdc913f0d2d0641bb2.jpg",
+    "static/media/naruto.jpg": "/bim_anime_log/static/media/naruto.b69aefb255155d2702c9.jpg",
+    "static/media/chainsaw.jpg": "/bim_anime_log/static/media/chainsaw.e719dacb4ce6d6663455.jpg",
+    "static/media/baki.jpg": "/bim_anime_log/static/media/baki.06ce273830bbf3b3e2b5.jpg",
+    "static/media/rurounikenshin.jpg": "/bim_anime_log/static/media/rurounikenshin.d7dfdd3847a1ec4eb919.jpg",
+    "static/media/kenganashura.jpg": "/bim_anime_log/static/media/kenganashura.44087b5dfc5d8d5b0376.jpg",
+    "static/media/aot.jpg": "/bim_anime_log/static/media/aot.79d7b8974a43984c51ff.jpg",
+    "static/media/bnha.jpg": "/bim_anime_log/static/media/bnha.f65a62a80727229aef8b.jpg",
+    "static/media/opm.jpg": "/bim_anime_log/static/media/opm.b1969c88a96515368179.jpg",
+    "static/media/bal_logo2.png": "/bim_anime_log/static/media/bal_logo2.db53022dd69411e78033.png",
+    "index.html": "/bim_anime_log/index.html",
+    "main.0cd9b69a.css.map": "/bim_anime_log/static/css/main.0cd9b69a.css.map",
+    "main.5739e0e2.js.map": "/bim_anime_log/static/js/main.5739e0e2.js.map",
+    "787.b7ed7893.chunk.js.map": "/bim_anime_log/static/js/787.b7ed7893.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cd9b69a.css",
+    "static/js/main.5739e0e2.js"
+  ]
+}
