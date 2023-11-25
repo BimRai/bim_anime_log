@@ -6,6 +6,7 @@ function Socials() {
   return (
     <div>
       <Nav></Nav>
+       <h1>FOLLOW FOR MORE!</h1>
       <Footer></Footer>
     </div>
   )
